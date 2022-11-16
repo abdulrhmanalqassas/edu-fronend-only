@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-image: url("tm.png");
+   /* You must set a specified height */
+  background-position: bottom right; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: contain;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
