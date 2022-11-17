@@ -27,7 +27,7 @@
   },
   "scripts": {
 
-     "heroku-postbuild": "CI=false npm run build"
+     "heroku-postbuild": "CI=false npm run build",
     "start": "react-scripts start",
     "build": "CI=false react-scripts build",
     "test": "react-scripts test",
