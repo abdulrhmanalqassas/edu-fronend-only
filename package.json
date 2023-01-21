@@ -1,7 +1,7 @@
 {
   "name": "new",
   "version": "0.1.1",
-  "homepage": "https://abdulrhmanalqassas.github.io/sideup",
+  "homepage": "https://abdulrhmanalqassas.github.io/edu",
   "private": true,
   "dependencies": {
     "@babel/runtime": "^7.18.9",
