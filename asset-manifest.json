@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sideup/static/css/main.746991e7.css",
+    "main.js": "/sideup/static/js/main.046935f7.js",
+    "static/media/tm.png": "/sideup/static/media/tm.b4989dc1422df7ad5617.png",
+    "index.html": "/sideup/index.html",
+    "main.746991e7.css.map": "/sideup/static/css/main.746991e7.css.map",
+    "main.046935f7.js.map": "/sideup/static/js/main.046935f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746991e7.css",
+    "static/js/main.046935f7.js"
+  ]
+}
