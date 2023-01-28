@@ -10,7 +10,7 @@ import TakeExam from "../TakeExam";
 export default function UserRutes(){
 return (
     <Routes>
-          <Route path="/" element={<StudDay />} />
+          <Route path="/*" element={<StudDay />} />
           <Route path="/add" element={<AddStue />} />
           <Route path="/exam" element={<Exam />} />
           <Route path="/delete" element={<Delete />} />
